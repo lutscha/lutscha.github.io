@@ -1,0 +1,16 @@
+a{
+    color: #02e06a;
+}
+body{
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: azure;
+    background-color: #222222;
+    padding: 50px;
+}
+h1{
+    color: #02e06a;
+}
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+}
